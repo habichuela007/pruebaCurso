@@ -1,0 +1,33 @@
+[1mdiff --git a/css/estilos.css b/css/estilos.css[m
+[1mindex 0c21ab7..e3bc290 100644[m
+[1m--- a/css/estilos.css[m
+[1m+++ b/css/estilos.css[m
+[36m@@ -1,6 +1,6 @@[m
+ body[m
+ {[m
+     color:blue;[m
+[31m-    text-align: right;[m
+[32m+[m[32m    text-align: center;[m
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;[m
+ }[m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e0fe5c5..924cd9c 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,12 +8,10 @@[m
+     <link rel="stylesheet" href="css/estilos.css">[m
+ </head>[m
+ <body>[m
+[32m+[m[32m    <h1>HOLA MAESTRAZO</h1>[m
+     <article>[m
+[31m-        Hola maestro[m
+[31m-        estoy maestraso[m
+[31m-        borramos algo[m
+[31m-        y ponemos todo[m
+[31m-        chale[m
+[32m+[m[41m         [m
+[32m+[m[32m        estoy maestraso borramos algo y ponemos todo chale[m
+ [m
+     </article>[m
+ </body>[m
